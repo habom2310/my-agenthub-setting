@@ -7,3 +7,6 @@ __pycache__/
 Thumbs.db
 .env
 *.env
+
+# Synced from the Claude app; not mine to share
+skills/synced/

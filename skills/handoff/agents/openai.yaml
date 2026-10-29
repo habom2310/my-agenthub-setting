@@ -1,0 +1,5 @@
+interface:
+  display_name: Handoff
+  short_description: Write, update, resume from or archive handoff documents in a
+    project's shared ha
+  default_prompt: Use handoff skill for this task.
